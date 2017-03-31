@@ -1,0 +1,330 @@
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    border:0;
+    font-size: 100%;
+}
+body {
+    height: 100%;
+    font: 1.125em "Segoe UI", sans-serif;
+    background: #ffffff;
+}
+
+.panel-top {
+    border-bottom: 5px solid #eeeeee;
+    background: #ffffff;
+    height: 64px;
+}
+
+.social a {
+    display: inline-block;
+    vertical-align: middle;
+    float: right;
+    height: 22px;
+    width: 22px;
+    margin-top: 22px;
+    margin-left: 11px;
+}
+
+img {
+    max-width:100%;
+    height:auto;
+}
+
+.s-fb {
+    background: url(../images/fbLogo.png)
+}
+
+.s-vk {
+    background: url(../images/vkLogo.png)
+}
+#wrapper {
+    max-width: 1920px;
+    width: 100%;
+}
+
+.center {
+    max-width: 960px;
+    width: 50%;
+    margin-left: 480px;
+    height: 100%;
+
+}
+
+.socialText {
+    float:right;
+    font: 16px Segoe UI;
+    color: #C1C0C1;
+    margin-top: 5px;
+}
+
+.logotip {
+    float:left;
+    margin-top: 22px;
+}
+
+.bluecontent {
+    height: 547px;
+    background-color: #00BBF1;
+}
+
+.rcloud{
+    float:right;
+    width: 370px;
+    margin-top: 173px;
+}
+.lcloud {
+    float:left;
+    width: 480px;
+    margin-top: 85px;
+}
+.mainimg {
+    float:right;
+    margin-right: 86px;
+    margin-top: 25px;
+}
+
+.bluecontent {
+    color: #ffffff;
+    padding-top: 1px;
+}
+
+.textinblue {
+    margin-top: 126px;
+}
+
+.elect {
+    height: 783px;
+    margin-top: 0px;
+}
+
+.l2cloud {
+    float:left;
+    margin-top: 92px;
+}
+
+.r2cloud {
+    float:right;
+    margin-top: 186px;
+}
+
+#ndblock > h2 {
+    color: #1C2532;
+    font: 48px Segoe UI, sans-serif;
+    text-align: center;
+    font-weight: lighter;
+    margin-top: 68px;
+    margin-bottom: 85px;
+}
+#ndblock {
+    padding-top: 1px;
+    height: 200px;
+}
+
+.marketplaces {
+    width: 205px;
+    height: 122px;
+    border: 2px solid;
+    border-color: #D7D7D7;
+    float: left;
+    display: inline-block;
+    text-align: center;
+}
+
+
+.wowzaimg {
+    margin-top: 38px;
+}
+
+
+.marketp {
+    height: 213px;
+    width: 209px;
+    display:inline-block;
+    float:left;
+    margin-left: 41px;
+    font-size: 22px;
+}
+
+.marketp:hover {
+    color:#7BB63C;
+}
+.marketp:hover .marketplaces {
+    border-color:#7BB63C;
+    border-radius: 3px;
+}
+
+.marketp:hover .img {
+    display:none;
+}
+
+.marketp:first-child {
+    margin-left:0px;
+}
+
+.climg {
+    display:none;
+}
+
+.marketp:hover .climg {
+    display: inline;
+}
+
+.kasperimg {
+    margin-top:44px;
+}
+
+.baraimg {
+    margin-top: 38px;
+}
+
+.oracleimg {
+    margin-top:23px;
+}
+
+.four {
+    height: 210px;
+}
+
+.coreimg {
+    margin-top: 37px;
+}
+
+.cmsimg {
+    margin-top: 20px;
+}
+
+.fourf {
+    height: 210px;
+    margin-top: 56px;
+    margin-bottom: 100px;
+}
+
+.russia {
+    background-color: #0078D7;
+    height: 167px;
+    width: 100%;
+}
+
+#rucenter {
+    display: inline-block;
+}
+
+.rutext {
+    display: inline-block;
+    width: 763px;
+    float: left;
+    margin-top:63px;
+}
+
+.rusimg {
+    display: inline-block;
+    padding-top: 29px;
+    padding-left: 27px;
+    float: left;
+}
+
+.rutext > p > a {
+    color:#C5D533;
+    text-decoration: none;
+}
+
+.rutext > p {
+    margin-top: 0px;
+    margin-left: 44px;
+}
+
+.last {
+    height: 864px;
+}
+
+.usefulldiv {
+    border: 2px solid;
+    color:#0078D7;
+    border-color:#0078D7;
+    height:76px;
+    display: inline-block;
+}
+
+.usefulldiv:hover {
+    color:#ffffff;
+    background-color: #7BB63C;
+    border-color: #7BB63C;
+}
+
+#vebinar {
+    width:556px;
+}
+
+.usefulldiv > p {
+    margin-top:10px;
+    margin-left: 37px;
+}
+
+#virtual {
+    width: 376px;
+    float:right;
+}
+
+#addon {
+    width:333px;
+    float:left;
+    margin-top:23px;
+}
+
+#integration {
+    margin-left:23px;
+    margin-top:24px;
+    width:364px;
+}
+
+#slider {
+    width:209px;
+    margin-left:14px;
+}
+
+.center > h3 {
+    color: #1C2532;
+    font: 48px Segoe UI, sans-serif;
+    text-align: center;
+    font-weight: lighter;
+    margin-top: 92px;
+    margin-bottom: 80px;
+}
+
+.center > h2 {
+    color: #1C2532;
+    font: 48px Segoe UI, sans-serif;
+    font-weight: lighter;
+}
+
+.center > img {
+    margin-left: 20px;
+}
+
+.lastp {
+    display:inline-block;
+    text-align:center;
+    float:left;
+}
+
+#strone {
+    margin-left:18px;
+}
+
+#strtwo {
+    margin-left: 127px;
+}
+
+#strthree {
+    margin-left:80px;
+}
+
+#strfour {
+    margin-left:50px;
+}
+
+#strfive {
+    margin-left:80px;
+}
